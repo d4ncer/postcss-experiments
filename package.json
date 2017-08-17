@@ -1,0 +1,14 @@
+{
+  "name": "postcss-experiments",
+  "version": "0.0.1",
+  "description": "Experiments with PostCSS",
+  "main": "index.js",
+  "repository": "https://github.com/d4ncer/postcss-experiments",
+  "author": "Raghuvir Kasturi <raghuvir.kasturi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cssnano": "^3.10.0",
+    "postcss": "^6.0.9",
+    "postcss-cssnext": "^3.0.2"
+  }
+}

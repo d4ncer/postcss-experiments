@@ -1,0 +1,6 @@
+@custom-selector :--c .a, .b;
+@custom-selector :--d :active, :hover, :focus, .active;
+
+:--c:--d {
+  background: blue;
+}
